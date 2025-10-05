@@ -1,0 +1,14 @@
+# Python virtual environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Playwright artifacts
+playwright-report/
+test-results/
+blob-report/
+ms-playwright/
+
+# Local tooling and secrets
+.azure/
+.env
